@@ -1,5 +1,4 @@
 # ADFCL
-Développement d'un système de fécondation au clair de lune/ Making a moonshine mating systeme for bees :)
 
 Nous sommes **4 étudiants ingénieurs aux Arts et Métiers** : Simon, Étienne, Nicolas et Lucien.
 
